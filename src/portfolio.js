@@ -12,7 +12,7 @@ const greeting = {
   title: "Hello 👋.",
   title2: "Clovis Bravo Silva",
   logo_name: "harry.k()",
-  nickname: "harry / picleric",
+  nickname: "Clovius",
   full_name: "Clovis Etzel Bravo Silva",
   subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
@@ -574,7 +574,7 @@ const projects = {
     {
       id: "0",
       name: "Keep Calm and Carry On",
-      url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
+      url: "https://github.com/clovisbravosilva",
       description:
         "This platform enables users to practice Augmented Reality meditation, play stress burster games, track task completion and engage in motivational exercises to cope with stress and anxiety at work.  ",
       languages: [
@@ -598,7 +598,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
         {
@@ -670,7 +670,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Adoptisity",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
         {
@@ -750,7 +750,7 @@ const projects = {
     {
       id: "5",
       name: "Fileblok",
-      url: "https://github.com/harikanani/Fileblok",
+      url: "https://github.com/clovisbravosilva",
       description:
         "Keep your projects moving with seamless transfer experice. FileBlok is a file transfer app that allows you to transfer files from one device to another without any hassle. We built this app using Flutter, Node.js and StoryBlok.",
       languages: [
@@ -770,7 +770,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Fileblok",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
         {
@@ -852,7 +852,7 @@ const projects = {
     {
       id: "8",
       name: "Swag Store",
-      url: "https://github.com/harikanani/e-commerce-frontend",
+      url: "https://github.com/clovisbravosilva",
       description:
         "An E-commerce website built using MERN[Mongo, Express, React, Node] stack and we have also added stripe payment gateway integration [in test mode].",
       languages: [
@@ -872,7 +872,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/e-commerce-frontend",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -880,7 +880,7 @@ const projects = {
     {
       id: "9",
       name: "node-blockchain",
-      url: "https://github.com/harikanani/node-blockchain",
+      url: "https://github.com/clovisbravosilva",
       description:
         "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
       languages: [
@@ -896,7 +896,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/node-blockchain",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -904,7 +904,7 @@ const projects = {
     {
       id: "10",
       name: "Know Me Well",
-      url: "https://github.com/harikanani/personal-portfolio",
+      url: "https://github.com/clovisbravosilva",
       description:
         "A simple command line interface based quiz app to know more about me :).",
       languages: [
@@ -924,7 +924,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/personal-portfolio",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -932,7 +932,7 @@ const projects = {
     {
       id: "11",
       name: "Bloggify",
-      url: "https://github.com/harikanani/Bloggify",
+      url: "https://github.com/clovisbravosilva",
       description: "A Simple REST API for Blog Application.",
       languages: [
         {
@@ -943,7 +943,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Bloggify",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -951,7 +951,7 @@ const projects = {
     {
       id: "12",
       name: "Stargazzers",
-      url: "https://github.com/harikanani/stargazers",
+      url: "https://github.com/clovisbravosilva",
       description: "An Unofficial API for GitHub Repo Stars Count",
       languages: [
         {
@@ -962,7 +962,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/stargazers",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -970,7 +970,7 @@ const projects = {
     {
       id: "13",
       name: "GitHub Theme Portfolio",
-      url: "https://github.com/harikanani/harikanani.github.io",
+      url: "https://github.com/clovisbravosilva",
       description:
         "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
       languages: [
@@ -994,12 +994,12 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/harikanani.github.io",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
         {
           name: "Live Demo",
-          url: "https://harikanani.github.io/",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "mdi:web",
         },
       ],
@@ -1007,7 +1007,7 @@ const projects = {
     // {
     //   id: "6",
     //   name: "Automate Attendace",
-    //   url: "https://github.com/harikanani/Node_Python",
+    //   url: "https://github.com/clovisbravosilva",
     //   description: "Automation of Online Attendance using node js and python",
     //   languages: [
     //     {
@@ -1035,7 +1035,7 @@ const projects = {
     // {
     //   id: "7",
     //   name: "Automate Discord Bot",
-    //   url: "https://github.com/harikanani/AutomateDiscordBot",
+    //   url: "https://github.com/clovisbravosilva",
     //   description:
     //     "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
     //   languages: [
@@ -1068,7 +1068,7 @@ const projects = {
     // {
     //   id: "8",
     //   name: "Flask Blog",
-    //   url: "https://github.com/harikanani/flask_blog",
+    //   url: "https://github.com/clovisbravosilva",
     //   description: "A Simple Blog Web Application made using Flask Framework",
     //   languages: [
     //     {
@@ -1104,7 +1104,7 @@ const projects = {
     // {
     //   id: "9",
     //   name: "Netflix top series",
-    //   url: "https://github.com/harikanani/netflix-top-series",
+    //   url: "https://github.com/clovisbravosilva",
     //   description: "List of Top Netflix Series which is deployed to vercel.",
     //   languages: [
     //     {
@@ -1140,7 +1140,7 @@ const projects = {
     {
       id: "10",
       name: "COVID-19 Tracker",
-      url: "https://github.com/harikanani/Covid19TrackerReact",
+      url: "https://github.com/clovisbravosilva",
       description:
         "Simple Covid-19 Tracker made using React and deployed to Vercel.",
       languages: [
@@ -1164,7 +1164,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Covid19TrackerReact",
+          url: "https://github.com/clovisbravosilva",
           iconifyClass: "ri:github-fill",
         },
       ],
@@ -1172,7 +1172,7 @@ const projects = {
     // {
     //   id: "11",
     //   name: "Food Order Static Website",
-    //   url: "https://github.com/harikanani/food-order-website",
+    //   url: "https://github.com/clovisbravosilva",
     //   description:
     //     "A simple static website related to food restaurants service. this is reasponsive as well.",
     //   languages: [
@@ -1232,7 +1232,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/nft-launchpad",
+    //       url: "https://github.com/clovisbravosilva",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
